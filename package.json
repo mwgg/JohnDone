@@ -5,7 +5,7 @@
   "description": "Generate unique usernames to preserve your identity when signing up for websites.",
   "author": "mwgg",
   "license": "MIT",
-  "version": "0.9",
+  "version": "0.9.1",
   "icon": "data/icon-48.png",
   "icon64": "data/icon-64.png",
   "homepage": "https://github.com/mwgg/JohnDone",
