@@ -6,6 +6,8 @@
   "author": "mwgg",
   "license": "MIT",
   "version": "0.9",
+  "icon": "data/icon-48.png",
+  "icon64": "data/icon-64.png",
   "homepage": "https://github.com/mwgg/JohnDone",
   "permissions": {"private-browsing": true}
 }
