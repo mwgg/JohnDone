@@ -1,0 +1,11 @@
+{
+  "name": "johndone",
+  "title": "JohnDone",
+  "id": "jid1-qMBCKH7jtWtQAQ",
+  "description": "Generate unique usernames to preserve your identity when signing up for websites.",
+  "author": "mwgg",
+  "license": "MIT",
+  "version": "0.9",
+  "homepage": "https://github.com/mwgg/JohnDone",
+  "permissions": {"private-browsing": true}
+}
